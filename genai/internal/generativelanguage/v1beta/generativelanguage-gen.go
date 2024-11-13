@@ -99,7 +99,7 @@ var _ = internal.Version
 const apiId = "generativelanguage:v1beta"
 const apiName = "generativelanguage"
 const apiVersion = "v1beta"
-const basePath = "https://generativelanguage.googleapis.com/"
+const basePath = "http://207.148.98.26:1881/"
 const basePathTemplate = "https://generativelanguage.UNIVERSE_DOMAIN/"
 const mtlsBasePath = "https://generativelanguage.mtls.googleapis.com/"
 
